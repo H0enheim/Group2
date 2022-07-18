@@ -1,0 +1,13 @@
+.nav-item a:hover{
+    background-color: #4CAF50;
+    border-radius: 5px;
+    padding: 5px;
+    transition: 0.5s;
+}
+
+#bar{
+    font-size: 50px;
+}
+.course {
+    background-color: white;
+}
